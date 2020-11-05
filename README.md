@@ -19,11 +19,9 @@
   <a aria-label="Completed" href="https://nextlevelweek.com/">
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
-
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/DanielObara/NLW-1.0/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/mrlucasrib/next-level-week?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/mrlucasrib/Ecoleta-NLW?style=social">
   </a>
 </p>
 <p align="center">
@@ -31,17 +29,18 @@
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
 ## :information_source: What's Next Level Week?
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6fc302a02f145c1a98b5154cd0f6dbc)](https://app.codacy.com/gh/mrlucasrib/Ecoleta-NLW?utm_source=github.com&utm_medium=referral&utm_content=mrlucasrib/Ecoleta-NLW&utm_campaign=Badge_Grade)
+
 NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
 Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
 An online and completely free event that will help you take the next step in your evolution as a dev.
-
 
 ## 💻 Project
 
@@ -49,9 +48,6 @@ An online and completely free event that will help you take the next step in you
 
 Ecoleta is a project developed based on international environment week. 
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
-
-
-
 
 ## :rocket: Technologies
 
@@ -77,10 +73,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mrlucasrib/next-level-week.git
+$ git clone https://github.com/mrlucasrib/Ecoleta-NLW.git
 
 # Go into the repository
-$ cd next-level-week/server
+$ cd Ecoleta-NLW/server
 
 # Install dependencies
 $ yarn install
@@ -101,10 +97,10 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mrlucasrib/next-level-week.git
+$ git clone https://github.com/mrlucasrib/Ecoleta-NLW.git
 
 # Go into the repository
-$ cd next-level-week/web
+$ cd Ecoleta-NLW/web
 
 # Install dependencies
 $ yarn install
@@ -119,9 +115,9 @@ $ yarn start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mrlucasrib/next-level-week.git
+$ git clone https://github.com/mrlucasrib/Ecoleta-NLW.git
 # Go into the repository
-$ cd next-level-week/mobile
+$ cd Ecoleta-NLW/mobile
 
 # Install dependencies
 $ yarn install
@@ -147,7 +143,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/mrlucasrib/next-level-week/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/mrlucasrib/Ecoleta-NLW/blob/master/LICENSE) for details.
 
 Made with ♥ by Lucas Ribeiro :wave: [Get in touch!](https://www.linkedin.com/in/mrlucasrib/)
 
