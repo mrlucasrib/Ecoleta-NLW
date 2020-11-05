@@ -11,11 +11,13 @@
 <h4 align="center"> 
 	:heavy_check_mark:  NextLevelWeek 1.0 🚀 Done! :heavy_check_mark:
 </h4>
-<p align="center">		
+<p align="center">
+
   <a href="https://www.linkedin.com/in/mrlucasrib/">
     <img alt="Made by mrlucasrib" src="https://img.shields.io/badge/made%20by-mrlucasrib-%2304D361">
   </a>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6fc302a02f145c1a98b5154cd0f6dbc)](https://app.codacy.com/gh/mrlucasrib/Ecoleta-NLW?utm_source=github.com&utm_medium=referral&utm_content=mrlucasrib/Ecoleta-NLW&utm_campaign=Badge_Grade)		
   <a aria-label="Completed" href="https://nextlevelweek.com/">
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
@@ -35,8 +37,6 @@
 </p>
 
 ## :information_source: What's Next Level Week?
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6fc302a02f145c1a98b5154cd0f6dbc)](https://app.codacy.com/gh/mrlucasrib/Ecoleta-NLW?utm_source=github.com&utm_medium=referral&utm_content=mrlucasrib/Ecoleta-NLW&utm_campaign=Badge_Grade)
 
 NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
 Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
